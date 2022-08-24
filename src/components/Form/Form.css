@@ -1,0 +1,24 @@
+  .inp{
+    margin-bottom: 1vh;
+    margin-top: 1vh;
+  }
+  
+  input{
+    font-size: 1em;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    outline: none;
+    margin-bottom: 1vh;
+    margin-top: 1vh;
+  }
+  
+  .inp-description{
+    font-size: 1.2em;
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    outline: none;
+    width: 100%;
+    height: 10vh;
+  }  
